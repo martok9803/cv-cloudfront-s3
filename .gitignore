@@ -1,0 +1,11 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+node_modules/
+deploy.sh
